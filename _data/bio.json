@@ -57,24 +57,29 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Web Tools",
       "level": "Moderate",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Microsoft Word",
+        "Microsoft Excel"
+        "Eclipse"
       ]
     },
     {
-      "name": "Microsoft Word/Excel",
+      "name": "Others",
       "level": "",
       "keywords": [
-        "Word",
-        "Excel",
-        "computers"
+        "Mathematics", 
+        "Customer Service", 
+        "Tutoring/Explaining", 
+        "Time Management",
+        "Multi-tasking", 
+        "Independent Worker", 
+        "Deadline Driven"
       ]
     }
   ],
@@ -85,6 +90,7 @@
       "studyType": "B.S.",
       "startDate": "2018-09-21",
       "endDate": "Present",
+      "project" : "Data Structures Project:  Executed what data structures are good for certain situations and requirements. This helps in the real work field because there will be different types of data given to me and I need to figure out what structures are most effective for that job.",
       "gpa": "",
       "courses": [
         "Intro to Computer Science I & II",
@@ -99,24 +105,24 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "Kapahulu Express Laundromat",
+      "position": "Assistant Manager",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "July 2013",
+      "endDate": "present",
+      "summary": "Advised and assisted customers in using the complex, coinless card system. Offered hands-on assistance to customers, assessing needs and maintaining current knowledge of consumer preferences. Provided exceptional customer service and responded to customer concerns in a friendly and knowledgeable manner",
       "highlights": [
         "",
         ""
       ]
     },
     {
-      "company": "",
-      "position": "",
+      "company": "Iolani High School",
+      "position": "Assistant Track and Field Coach",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "January 2019",
+      "endDate": "present(seasonal)",
+      "summary": "Worked with athletes to improve coordination through strategic drills and confidence.  Collaborated with Head Coach on the most effective workouts, player discipline, and performance analysis. Developed a relationship with each and every athlete on the team, helping each to succeed based on their individual strengths and weaknesses",
       "highlights": [
         "",
         ""
@@ -126,27 +132,27 @@
   "volunteer": [
     {
       "organization": "",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
