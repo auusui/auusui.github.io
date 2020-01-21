@@ -10,7 +10,7 @@ labels:
   - Interests
 ---
 
-<src="../images/confused.jpg">
+<img class="ui medium left floated image" src="../images/confused.jpg">
 
 As I transferred to the University of Hawai'i, I was STUCK trying to figure out what degree I wanted on my diploma for undergraduate and graduate school. I had come from an all business school called Menlo College, and I didn't want my career to be accounting for the rest of my life.  I had a variety of choices to choose from when I transferred, so many that I couldn't choose.  After long nights of researching best jobs in Hawai'i, best salary jobs in Hawai'i, best projected salaries in Hawai'i, and taking "best fit job quizzes", I came to the conclusion that I wanted to go into architecture or dentistry.  I shared my thoughts with my parents and my dad automatically said he wanted me to stay in accounting like he did, but he would support my decision.  My mom however told me no, I should go into computer engineering.  I did research and asked around about computer engineering to see if I could get a good job here in Hawai'i, but everyone said I'd have to go to the mainland for that major.  Therefore, me and my mom came to a compromise of computer science.  Little did I know, I'd end up loving what I do now.  
 
