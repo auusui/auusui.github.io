@@ -1,4 +1,5 @@
-How to show code in the essays :
+How to show code in the projects :
+
 Here is some code that illustrates how we read values from the line sensors:
 
 ```js
