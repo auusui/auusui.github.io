@@ -10,6 +10,7 @@ labels:
 ---
 
 <img class="ui medium left floated image" src="../images/java.jpeg">
+
 I see Javascript as an easier version of Java and also less strict.  I think it makes coding easier if you want to write down coding ideas or just practice certain algorithms.  Compared to C/C++, it is more alike coding wise.  I am a newbie to Javascript and C/C++ this semester and I have learned so much already.  I took lessons on FreeCodeCamp and it showed me the basics of Javascript, but it was a bit overwhelming doing over 200 exercises. However, I do think that I wouldnʻt want to get comfortable with Javascript because it could make me lazy with coding since it isnʻt as strict.  Coding is very particular in accuracy and perfection so I wouldnʻt want to pick up lazy habits along the way.  
 
 
