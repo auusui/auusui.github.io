@@ -120,14 +120,18 @@
     {
       "company": "Iolani High School",
       "position": "Assistant Track and Field Coach",
-   //   "website": "",
       "startDate": "January 2019",
       "endDate": "present(seasonal)",
       "summary": "Worked with athletes to improve coordination through strategic drills and confidence.  Collaborated with Head Coach on the most effective workouts, player discipline, and performance analysis. Developed a relationship with each and every athlete on the team, helping each to succeed based on their individual strengths and weaknesses",
-//      "highlights": [
-  //      "",
-    //    ""
-      //]
+    },
+    {
+      "company": "Bloomingdale's Forty Carrots",
+      "position": "Hostess/Barista",
+      "startDate": "June 2018",
+      "endDate": "August 2018",
+      "summary": "Answered phone calls, accommodate customers’ special needs, and ensured that service was quick and efficient.  Prepared beverages and desserts based on customers’ preference.  Closed and opened restaurant according to restaurant procedures and policies, took inventory of supplies and money in registers.  I learned to team building skills as I picked up some slack from coworkers if they were slammed with orders and helped grab shipments or extra supplies when we needed them.  
+",
+
     }
   ],
   "volunteer": [
@@ -142,20 +146,7 @@
   //      "",
     //    ""
       //]
-    },
-    {
-//      "organization": "",
- //     "website": "",
-  //    "position": "",
-   //   "startDate": "",
-    //  "endDate": "",
-     // "summary": "",
-     // "highlights": [
-       // "",
-       // "",
-       // ""
-     // ]
-   // }
+    }
   ],
   "awards": [
     {
