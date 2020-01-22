@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/data.png
 title: Data Structures
 permalink: projects/data-structures
 # All dates must be YYYY-MM-DD format!
