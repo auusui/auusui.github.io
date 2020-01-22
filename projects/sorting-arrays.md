@@ -1,6 +1,5 @@
 ---
-layout: project
-type: project
+layout & type: project
 image: images/sorting.png
 title: Sorting Arrays
 permalink: projects/sorting-arrays
@@ -8,8 +7,7 @@ permalink: projects/sorting-arrays
 date: 2020-01-21
 labels:
   - Sorts: Bubble, Insertion, Selection
-  - Decisions
-  - Java
+  - Decisions Java
 summary: Learned how to recognize and code for the 3 different sorting algorithms.
 ---
 
