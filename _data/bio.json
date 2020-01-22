@@ -58,8 +58,8 @@
   "skills": [
     {
       "name": "Web Tools",
-      "level": "Moderate",
-      "keywords": [
+      "level": "Moderate" 
+       "keywords": [
         "C",
         "C++",
         "Java",
@@ -67,8 +67,9 @@
         "Microsoft Word",
         "Microsoft Excel"
         "Eclipse"
-      ]
+      ],
     },
+  ],
     {
       "name": "Others",
       "level": "",
