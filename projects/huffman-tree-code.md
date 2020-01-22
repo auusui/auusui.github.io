@@ -6,9 +6,7 @@ permalink: projects/huffman-tree-code
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
 labels:
-  -  Huffman
-  -  Learning
-  -  Problem Solving
+  -  Huffman/ Problem Solving
 summary: Learned how to decide what data structure to use for certain situations.
 ---
 
