@@ -10,7 +10,7 @@ labels:
   - Sorts: Bubble, Insertion, Selection
   - Decisions
   - Java
-summary: Learned how to decide what data structure to use for certain situations.
+summary: Learned how to recognize and code for the 3 different sorting algorithms.
 ---
 
 <div class="ui small rounded images">
