@@ -6,7 +6,7 @@ permalink: projects/data-structures
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
 labels:
-  -  Run Time/Performance Decisons
+  -  Run Time   Performance Decisons
 summary: Learned how to decide what data structure to use for certain situations.
 ---
 
