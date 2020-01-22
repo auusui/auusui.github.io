@@ -9,8 +9,6 @@ labels:
   - Athetic Software Engineering
 ---
 
-<img class="ui medium left floated image" src="../images/java.jpeg">
-
 Who knew computers had so many languages!  I see Javascript as an easier version of Java and also less strict.  I think it makes coding easier if you want to write down coding ideas or just practice certain algorithms.  Compared to C/C++, it is more alike, coding wise.  I am a newbie to Javascript and C/C++ this semester and I have learned so much already.  I took lessons on FreeCodeCamp and it showed me the basics of Javascript, but it was a bit overwhelming doing over 200 exercises. However, I donʻt think that I want to get comfortable with Javascript because it could make me lazy with coding since it isnʻt as strict.  Coding is very particular in accuracy and perfection so I wouldnʻt want to pick up any lazy habits along the way no matter how big or small. Althought, these three languages that I have knowledge about seem similiar in ways such as structure or loops/if statements.   
 Here is an example of the 3 different languages being compared(Java, Javascript, C):
 
