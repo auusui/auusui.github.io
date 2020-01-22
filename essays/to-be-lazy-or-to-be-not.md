@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: true
 title: To be Lazy or To be Not
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
