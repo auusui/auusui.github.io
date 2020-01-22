@@ -3,9 +3,9 @@ layout: essay
 type: essay
 title: 
 # All dates must be YYYY-MM-DD format!
-date: 2015-01-21
+date: 2020-01-21
 labels:
-  - Languages: Javascript
+  - Languages: Javascript, Java, C/C++
   - Athetic Software Engineering
 ---
 What do you think about Javascript so far? If you’re a complete newbie, how does it compare to other programming languages that you know? If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? Do you think Javascript is a good or bad programming language from a software engineering perspective?
