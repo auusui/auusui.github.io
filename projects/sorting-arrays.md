@@ -6,8 +6,7 @@ permalink: projects/sorting-arrays
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
 labels:
-  - Sorts: Bubble, Insertion, Selection
-  - Decisions Java
+  - Sorts  Decisions Java
 summary: Learned how to recognize and code for the 3 different sorting algorithms.
 ---
 
