@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Is Javascript Good or Bad?
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
 labels:
