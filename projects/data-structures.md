@@ -1,5 +1,5 @@
 ---
-layout: type: project
+layout & type: project
 image: images/data.png
 title: Data Structures
 permalink: projects/data-structures
