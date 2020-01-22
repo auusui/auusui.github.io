@@ -8,8 +8,8 @@ permalink: projects/data-structures
 date: 2020-01-21
 labels:
   -  Run Time
-  -  
-  - 
+  -  Performance
+  -  Decisions
 summary: Learned how to decide what data structure to use for certain situations.
 ---
 
