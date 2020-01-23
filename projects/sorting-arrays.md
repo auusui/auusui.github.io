@@ -1,7 +1,7 @@
 ---
 layout & type: project
 image: images/sorting.png
-title: Sorting Arrays
+title: "Sorting Arrays"
 permalink: projects/sorting-arrays
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
