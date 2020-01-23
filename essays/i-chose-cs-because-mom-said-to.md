@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: I Chose CS Because Mom Said To
+title: "I Chose CS Because Mom Said To"
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
 labels:
