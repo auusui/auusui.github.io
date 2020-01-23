@@ -1,7 +1,7 @@
 ---
 layout & type: project
 image: images/data.png
-title: Data Structures
+title: "Data Structures"
 permalink: projects/data-structures
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
