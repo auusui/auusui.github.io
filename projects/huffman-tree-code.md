@@ -1,7 +1,7 @@
 ---
 layout & type: project
 image: images/huffman.gif
-title: Huffman Tree Code
+title: "Huffman Tree Code"
 permalink: projects/huffman-tree-code
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
