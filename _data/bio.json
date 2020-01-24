@@ -107,14 +107,14 @@
     {
       "company": "Kapahulu Express Laundromat",
       "position": "Assistant Manager",
- //     "website": "",
+      "website": "",
       "startDate": "July 2013",
       "endDate": "present",
       "summary": "Advised and assisted customers in using the complex, coinless card system. Offered hands-on assistance to customers, assessing needs and maintaining current knowledge of consumer preferences. Provided exceptional customer service and responded to customer concerns in a friendly and knowledgeable manner",
-  //    "highlights": [
-    //    "",
-      //  ""
-      //]
+      "highlights": [
+    
+      
+      ]
     },
     {
       "company": "Iolani High School",
@@ -136,15 +136,14 @@
   "volunteer": [
     {
       "organization": "Kāneʻwai Loʻi",
-  //    "website": "",
+      "website": "",
       "position": "Helper",
       "startDate": "August 2019",
       "endDate": "Present",
       "summary": "The Loʻi is a Hawaiian term meaning taro patches.  Taro is a type of plant that is very common for Hawaiians to grow and was one of the main foods they ate.  I volunteer here on every first Saturday of the month to help with whatever the leaders tell me to do.  My duties would include stomping in the mud to bury the leaves, re-mmounding the mud piles around the kalo plants, or collecting leaves to put into the patches.  It is very humbling and teaches me team work as well as patience.",
-//      "highlights": [
-  //      "",
-    //    ""
-      //]
+      "highlights": [
+  
+       ]
     }
   ],
   "awards": [
