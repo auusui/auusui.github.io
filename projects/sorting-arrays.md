@@ -1,5 +1,6 @@
 ---
-layout & type: project
+layout: project
+type: project
 image: images/sorting.png
 title: "Sorting Arrays"
 permalink: projects/sorting-arrays
