@@ -9,8 +9,8 @@ labels:
   -  Run Time   Performance Decisons
 summary: Learned how to decide what data structure to use for certain situations.
 ---
+<img class="ui medium right floated rounded image" src="../images/data.png">
 
-<img class="ui medium left floated image" src="../images/data.png">
 
 In this project, I made a program that used 3 different types of sorting algorithms for different purposes.  My professor put a story spin on it to make representing much easier to relate.  He represented the data structures with potion bags.  One potion bag was to be a quick-acting bag, the second is a "medium" potion that is moderate speed, and the last bag is a slow bag that takes the longest to activate.  These "potions" will have different performance characteristics and we have to choose which data structures match those characteristics.  
 
