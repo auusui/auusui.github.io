@@ -1,5 +1,6 @@
 ---
-layout & type: project
+layout: project 
+type: project
 image: images/huffman.gif
 title: "Huffman Tree Code"
 permalink: projects/huffman-tree-code
