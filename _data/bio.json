@@ -6,10 +6,10 @@
     "email": "ausui@hawaii.edu",
     "phone": "808-469-8486",
     "website": "https://auusui.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.  My desired field/career I want to work towards is Hawaiian Airlines IT department.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96821",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -131,6 +131,17 @@
       "startDate": "August 2019",
       "endDate": "Present",
       "summary": "The Loʻi is a Hawaiian term meaning taro patches.  Taro is a type of plant that is very common for Hawaiians to grow and was one of the main foods they ate.  I volunteer here on every first Saturday of the month to help with whatever the leaders tell me to do.  My duties would include stomping in the mud to bury the leaves, re-mmounding the mud piles around the kalo plants, or collecting leaves to put into the patches.  It is very humbling and teaches me team work as well as patience.",
+      "highlights": [
+  
+       ]
+    },
+     {
+      "organization": "ITMA Club",
+      "website": "",
+      "position": "",
+      "startDate": "January 2020",
+      "endDate": "Present",
+      "summary": "ITMA stands for Information Technology Management Association.  This club is a student organization at UH Manoa focused on information technology and business combined.  My position is under the Director of Marketing and I help him create flyers for the club to post on social medias and t-shirt designs.",
       "highlights": [
   
        ]
