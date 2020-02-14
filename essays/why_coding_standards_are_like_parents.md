@@ -1,4 +1,14 @@
-
+---
+layout: essay
+type: essay
+title: "Why Coding Standards Are Like Parents"
+# All dates must be YYYY-MM-DD format!
+date: 2020-02-13
+labels:
+  - Problem Solving
+  - ESLint & IntelliJ
+  - Learning
+---
 
 Everyone's parents are different.  Some are more on the less involved side, and some are very involved.  My parents love to stay involved but know when to give me space.  My connection to my parents is how i would describe my work ethic with coding standards.  Coding standards are the right amount of involved with how I code.  It only corrects me on things that I should already know, but made a mistake on.  If I didn't know something like I put a let variable instead of a const variable or forgot to put a parenthesis, it will tell me what I did wrong.  If my letters and words aren't spaced correctly, it will also let me know and then fix it.  Every little thing makes a difference with coding standards because it basically wants you to write the best code possible.  
 
