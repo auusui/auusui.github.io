@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-## Overview 
+**Overview** 
 *The problem:* There are people who want to start working out or stay fit, but lack the motivation to do so.  During this corona virus quarantine, we are limited for workouts.  It is very easy to fall into the couch and not move for decades.  As a result, we lose motivation to do anything and treat our bodies correctly.  
 
 *The solution:* Fit Limited creates a fun way for all homebody people who lack the resources and/or motivation to get active by: 
@@ -21,7 +21,7 @@ labels:
 * Insprirational/triumph quotes at the end of your workout
 * Allowing you to workout in a group with friends (even with geographical distance)
 
-## Mockup Page Ideas 
+**Mockup Page Ideas** 
 Some possible mockup pages include: 
 
 * Landing Page
@@ -32,7 +32,7 @@ Some possible mockup pages include:
 * Workout Home Page
 * Browse workouts by muscle, equipment, time, type, etc.
 
-## Use Case Ideas 
+**Use Case Ideas**
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 
 * New user goes to landing page, logs in, goes to home page, sets up profile.
@@ -40,7 +40,7 @@ Whether or not the following bullet points list all pages or not, the completed 
 * User goes to landing page, logs in, finds workouts with user's interests, starts workout, finishing quote.
 * User goes to landing page, logs in, connects with friends, finds workouts with same interests, starts workout with group facetime, finishing quote. 
 
-## Beyond the Basics 
+**Beyond the Basics** 
 After implementing the basic functionality, here are ideas for more advanced features:
 
 * Allow others to input their own workout suggestions
