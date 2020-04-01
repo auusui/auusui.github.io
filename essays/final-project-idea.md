@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Fit Limited"
-date: 2020-3-31
+date: 2020-03-31
 labels:
   - Software Engineering
   - Meteor
