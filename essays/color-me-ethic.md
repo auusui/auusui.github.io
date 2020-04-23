@@ -9,4 +9,5 @@ labels:
   - Learning
 ---
 
-<img src="images/comic.png">
+<img class="small fluid image" src=".../images/comic.png">
+
