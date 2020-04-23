@@ -9,5 +9,5 @@ labels:
   - Learning
 ---
 
-<img class="sui medium left floated image" src=".../images/comic.png">
+<img class="ui medium left floated image" src=".../images/comic.png">
 
