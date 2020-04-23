@@ -9,3 +9,4 @@ labels:
   - Learning
 ---
 
+<img src="images/comic.png">
