@@ -11,3 +11,7 @@ labels:
 ---
 
 reflect on what you learned about software engineering in general during this course, by taking two or three of these topics and discussing what they mean beyond web application development.
+
+Functional Programming
+Coding Standards
+
