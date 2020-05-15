@@ -13,6 +13,8 @@ labels:
 summary: A few of my classmates and I created a web app that allows UH Manoa students to connect with their classmates and create study sessions.  These study sessions are usually made with a tutor and can be with as many people as they wish.  
 ---
 <img class="ui medium right floated rounded image" src="../images/friends.png">
+<img class="ui medium right floated rounded image" src="../images/home.png">
+
 
 The problem we are addressing is that students tend to spend more time on their homework than they need and can't absorb the material as effectively as they should.  Students don't get enough of smaller ratio and face-to-face interaction with teachers or teaching assistants.  This app aims to solve this problem by allowing the students to self-organize study groups around specialties, courses, or majors.  The picture above is a screenshot of one of the pages that is implemented into our application.  There are more pages listed as you can see in the picture such as, a reminders page, user page, tutor search, etc.  Each page has a specific function. With this project, I was in charge of creating the friends page.  This included making a search bar to find users and adding friends. It also had an interal tab bar where it showed cards of users who were friends and users that requested to be a friend.  The back-end entailed figuring out how to send a friend request to users and what to do when the receiving user accepted or declined the request.  My other responsibility was a part of the reminders page.  I had to connect the cready study session page to create a study session card in the reminder page whenever one was created.  The card also allowed the user to RSVP where they were going to attend the session.  
 
