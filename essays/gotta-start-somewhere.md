@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Gotta Start Somewhere!"
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-08
+date: 2020-05-14
 labels:
   - Software Engineering
   - Reflection
