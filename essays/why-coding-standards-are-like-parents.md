@@ -14,7 +14,7 @@ labels:
 
 ## The Connection
 
-Everyone's parents are different.  Some are more on the less involved side, and some are very involved.  My parents love to stay involved but know when to give me space.  My connection to my parents is how I would describe my work ethic with coding standards.  Coding standards are the right amount of involved with how I code.  It only corrects me on things that I should already know, but made a mistake on.  If I didn't know something like I put a let variable instead of a const variable or forgot to put a parenthesis, it will tell me what I did wrong.  If my letters and words aren't spaced correctly, it will also let me know and then fix it.  Every little thing makes a difference with coding standards because it basically wants you to write the best code possible.  
+Everyone's parents are different.  Some are more on the less involved side, and some are very involved.  My parents love to stay involved but know when to give me space.  My connection to my parents is how I would describe my work ethic with coding standards.  Coding standards have the right amount of involvement when I code.  It only corrects me on things that I should already know, but made a mistake on.  If I didn't know something like I put a let variable instead of a const variable or forgot to put a parenthesis, it will tell me what I did wrong.  If my letters and words aren't spaced correctly, it will also let me know and then fix it.  Every little thing makes a difference with coding standards because it basically wants you to write the best code possible.  
 
 ## How It Works
 
