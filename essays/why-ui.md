@@ -9,6 +9,9 @@ labels:
 ---
 
 # Why UI?
+
+## Always Changing
+
 With the way my personality is, my interests are always changing.  I like to try different experiences to keep life a bit more interesting.  I can never just stick to one thing for a long period of time otherwise I will get too bored.  For a CS major, that seems very ironic considering some lines of work are very repetitive.  I, however, don't think of it that way.  I think of computer science as a limitless outcome.  There are many ways a coder can create a project and semantic UI allows people to make endless outcomes.  I have not tried any other UI frameworks, but so far, semantic UI has not dissappointed me.  I like the millions of ways you can create a web design and personalize it as your own through the different types in an element, the contents, and different variations.    
 
 ## Is It Worth the Struggle?
