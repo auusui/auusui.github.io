@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/friends.png
-title: "Data Structures"
-permalink: projects/data-structures
+title: "Link Up Manoa"
+permalink: projects/link-up-manoa
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-21
+date: 2020-05-14
 labels:
   - Software engineering
   - Group work
