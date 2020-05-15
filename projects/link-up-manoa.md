@@ -12,7 +12,9 @@ labels:
   - Study group app
 summary: A few of my classmates and I created a web app that allows UH Manoa students to connect with their classmates and create study sessions.  These study sessions are usually made with a tutor and can be with as many people as they wish.  
 ---
+
 <img class="ui medium right floated rounded image" src="../images/friends.png">
+
 <img class="ui medium right floated rounded image" src="../images/home.png">
 
 
