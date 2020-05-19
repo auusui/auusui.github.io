@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: "RadGrad Level Up"
+# All dates must be YYYY-MM-DD format!
+date: 2020-05-20
+labels:
+  - RadGrad
+  - Level Up System
+---
 
 For this task, please figure out what is necessary to make it to the next Level in RadGrad, then do it.
 
