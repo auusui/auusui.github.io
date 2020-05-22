@@ -82,7 +82,7 @@
       "studyType": "B.S.",
       "startDate": "2018-09-21",
       "endDate": "Present",
-      "project" : "Data Structures Project:  Executed what data structures are good for certain situations and requirements. This helps in the real work field because there will be different types of data given to me and I need to figure out what structures are most effective for that job.",
+      "project" : "Link-Up Manoa Project: Created a web application with a few classmates with the purpose of making it easier to create study groups with people in similar classes or majors.  I developed the friends page as well as half of the reminders page.  I was in charge of the front and back-end engineering of the two pages. I used mostly Semantic UI React with some CSS and HTML.",
       "gpa": "",
       "courses": [
         "Intro to Computer Science I & II",
@@ -123,6 +123,13 @@
       "summary": "Answered phone calls, accommodate customers’ special needs, and ensured that service was quick and efficient.  Prepared beverages and desserts based on customers’ preference.  Closed and opened restaurant according to restaurant procedures and policies, took inventory of supplies and money in registers.  I learned to team building skills as I picked up some slack from coworkers if they were slammed with orders and helped grab shipments or extra supplies when we needed them.  
 ",
 
+    },
+    {
+      "company": "RadGrad2 - InternBit",
+      "position": "Intern",
+      "startDate": "May 2020",
+      "endDate": "August 2020",
+      "summary": "Worked with team to improve and create a web application called InternBit.  Helped create design mockups of the pages we would implement into the application as well as code the front and back-end of the app.  The goal of the app is to create an easier way for students to find an internship without looking on a million websites.",
     }
   ],
   "volunteer": [
