@@ -97,6 +97,13 @@
   ],
   "work": [
     {
+      "company": "RadGrad2 - InternBit",
+      "position": "Intern",
+      "startDate": "May 2020",
+      "endDate": "August 2020",
+      "summary": "Worked with team to improve and create a web application called InternBit.  Helped create design mockups of the pages we would implement into the application as well as code the front and back-end of the app.  The goal of the app is to create an easier way for students to find an internship without looking on a million websites.",
+    },
+    {
       "company": "Kapahulu Express Laundromat",
       "position": "Assistant Manager",
       "website": "",
@@ -104,8 +111,6 @@
       "endDate": "present",
       "summary": "Advised and assisted customers in using the complex, coinless card system. Offered hands-on assistance to customers, assessing needs and maintaining current knowledge of consumer preferences. Provided exceptional customer service and responded to customer concerns in a friendly and knowledgeable manner",
       "highlights": [
-    
-      
       ]
     },
     {
@@ -123,13 +128,6 @@
       "summary": "Answered phone calls, accommodate customers’ special needs, and ensured that service was quick and efficient.  Prepared beverages and desserts based on customers’ preference.  Closed and opened restaurant according to restaurant procedures and policies, took inventory of supplies and money in registers.  I learned to team building skills as I picked up some slack from coworkers if they were slammed with orders and helped grab shipments or extra supplies when we needed them.  
 ",
 
-    },
-    {
-      "company": "RadGrad2 - InternBit",
-      "position": "Intern",
-      "startDate": "May 2020",
-      "endDate": "August 2020",
-      "summary": "Worked with team to improve and create a web application called InternBit.  Helped create design mockups of the pages we would implement into the application as well as code the front and back-end of the app.  The goal of the app is to create an easier way for students to find an internship without looking on a million websites.",
     }
   ],
   "volunteer": [
