@@ -83,7 +83,7 @@
       "startDate": "2018-09-21",
       "endDate": "Present",
       "project" : "Link-Up Manoa Project: Created a web application with a few classmates with the purpose of making it easier to create study groups with people in similar classes or majors.  I developed the friends page as well as half of the reminders page.  I was in charge of the front and back-end engineering of the two pages. I used mostly Semantic UI React with some CSS and HTML.",
-      "gpa": "",
+      "gpa": "3.0",
       "courses": [
         "Intro to Computer Science I & II",
         "Discrete Mathematics I & II",
@@ -97,7 +97,7 @@
   ],
   "work": [
     {
-      "company": "RadGrad2 - InternBit",
+      "company": "RadGrad2",
       "position": "Intern",
       "startDate": "May 2020",
       "endDate": "August 2020",
@@ -125,9 +125,7 @@
       "position": "Hostess/Barista",
       "startDate": "June 2018",
       "endDate": "August 2018",
-      "summary": "Answered phone calls, accommodate customers’ special needs, and ensured that service was quick and efficient.  Prepared beverages and desserts based on customers’ preference.  Closed and opened restaurant according to restaurant procedures and policies, took inventory of supplies and money in registers.  I learned to team building skills as I picked up some slack from coworkers if they were slammed with orders and helped grab shipments or extra supplies when we needed them.  
-",
-
+      "summary": "Answered phone calls, accommodate customers’ special needs, and ensured that service was quick and efficient.  Prepared beverages and desserts based on customers’ preference.  Closed and opened restaurant according to restaurant procedures and policies, took inventory of supplies and money in registers.  I learned to team building skills as I picked up some slack from coworkers if they were slammed with orders and helped grab shipments or extra supplies when we needed them.",
     }
   ],
   "volunteer": [
@@ -142,15 +140,14 @@
   
        ]
     },
-     {
-      "organization": "ITMA Club",
+    {
+      "organization": "Information Technology Management Association Club",
       "website": "",
       "position": "",
       "startDate": "January 2020",
-      "endDate": "Present",
-      "summary": "ITMA stands for Information Technology Management Association.  This club is a student organization at UH Manoa focused on information technology and business combined.  My position is under the Director of Marketing and I help him create flyers for the club to post on social medias and t-shirt designs.",
+      "endDate": "May 2020",
+      "summary": "ITMA is a student organization at UH Manoa focused on information technology and business combined.  My position is under the Director of Marketing and I help him create flyers for the club to post on social medias and t-shirt designs.",
       "highlights": [
-  
        ]
     }
   ],
