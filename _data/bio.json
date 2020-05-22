@@ -1,5 +1,6 @@
 {
-  "basics": {
+  "basics": 
+  {
     "name": "Aubrie Usui",
     "label": "Student",
     "picture": "https://auusui.github.io/images/profile.png",
@@ -14,6 +15,7 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
+    
     "profiles": [
       {
         "network": "github",
@@ -45,6 +47,7 @@
       ]
     }
   ],
+  
   "skills": [
     {
       "name": "Web Tools",
@@ -75,6 +78,7 @@
       ]
     }
   ],
+  
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -95,6 +99,7 @@
       ]
     }
   ],
+  
   "work": [
     {
       "company": "RadGrad2",
@@ -128,6 +133,7 @@
       "summary": "Answered phone calls, accommodate customers’ special needs, and ensured that service was quick and efficient.  Prepared beverages and desserts based on customers’ preference.  Closed and opened restaurant according to restaurant procedures and policies, took inventory of supplies and money in registers.  I learned to team building skills as I picked up some slack from coworkers if they were slammed with orders and helped grab shipments or extra supplies when we needed them.",
     }
   ],
+  
   "volunteer": [
     {
       "organization": "Kāneʻwai Loʻi",
@@ -171,4 +177,5 @@
       "reference": ""
     }
   ]
+}
 }
