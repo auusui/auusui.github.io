@@ -11,7 +11,7 @@ labels:
 ---
 # RadGrad Level Up
 
-<img large src="/images/radGrad.png">
+<img class="ui large right floated image" src="/images/radGrad.png">
 
 ### ICE ICE BABY
 
