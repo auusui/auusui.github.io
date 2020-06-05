@@ -12,7 +12,7 @@ labels:
 
 # Remote Pairing Program
 
-Remote pairing is something I have never done before.  We also never had to work from home, though.  We mostly used CodeTogether as our basis to share our code so we could view and edit on the same files.  The purpose of this remote pairing program was to get to know our teammates as well as produce an engineering program that summarizes our best practices.  It is important that we develop the ability to work synchronously, and it will be more difficult considering we can't have face-to-face interaction at this time during the pandemic.  This remote pairing program should help us become more comfortable coding and working with others. 
+Remote pairing is something I have never done before.  We also never had to work from home, though.  I paired with my teammates that are working on InternBit.  I feel like it would be cool to pair with people from other projects in RadGrad because it would be cool to see what the others have been working on.  For the remote pairing, we mostly used CodeTogether as our basis to share our code so we could view and edit on the same files.  The other option was FlooBits.  The purpose of this remote pairing program was to get to know our teammates as well as produce an engineering program that summarizes our best practices.  It is important that we develop the ability to work synchronously, and it will be more difficult considering we can't have face-to-face interaction at this time during the pandemic.  This remote pairing program should help us become more comfortable coding and working with others. 
 
 ## Each Partner
 
