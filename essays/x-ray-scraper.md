@@ -40,4 +40,18 @@ x(html, 'body', 'h2')(function(err, header) {
 })
 ```
 
-I found X-Ray to be very easy to understand and use.  It was easy to write it into a JSON file, which is what the last line under URL does.  The paginate function allows the scraper to keep going through all of the pages that list jobs.  The limit function basically limits the amount of sources you want to show on the JSON results file.  It was hard for me to scrape some websites and I tried to play around with the attribute selectors I used and the class scopes.  I found that it was easier to find something if you narrowed the box that it was placed in.  
+I found X-Ray to be very easy to understand and use.  It was easy to write it into a JSON file, which is what the last line under URL does.  The paginate function allows the scraper to keep going through all of the pages that list jobs.  The limit function basically limits the amount of sources you want to show on the JSON results file.  It was hard for me to scrape some websites and I tried to play around with the attribute selectors I used and the class scopes.  I found that it was easier to find something if you narrowed it down to the inner box that it was placed in.  The materials that I was able to scrape from the website were the date the internship was posted, description, internship header/name, company name, and the location.  
+
+X-Ray has many attributes that are useful for scraping a big website.  I have gone over a few of them in the previous paragraph.  Collections are like a list of fields within a field.  X-Ray makes it easier to get collections using this code: 
+```ruby
+//selecting only the first list item in unordered list
+ x('ul', 'li') 
+ 
+ //selecting the whole list
+ x('ul', ['li'])
+ 
+ //selects all list items in all lists
+ x(['ul'], ['li'])
+```
+
+Other attributes are crawling, scoping, and filtering.  By using them together, the search becomes even better because it helps with being more specific with what you want out of the website.  What helped me understand how to use the different properties was Matthew Muellerʻs [GitHub page](https://github.com/matthewmueller/x-ray).  It shows examples of the selector (simple string selector), collections (selects an object), arrays (selects an array), collections of collections (selects an array of objects), and array of arrays (selects an array of arrays).  Overall, I think that X-Ray was a great experience for trying out scraping for the first time.  
