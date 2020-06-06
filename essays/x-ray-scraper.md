@@ -12,7 +12,7 @@ labels:
 
 # X-Ray Scraper
 
-[X-Ray](https://www.npmjs.com/package/x-ray) is a Javascript library that I used to scrape internship websites.  The website I chose to target was CoolWorks.  With X-Ray, the code is formatted as following: 
+[X-Ray](https://www.npmjs.com/package/x-ray) is a Javascript library that I used to scrape internship websites.  The website I chose to target was CoolWorks.  With X-Ray, the code is formatted as follows: 
 
 ## URL
 ```ruby
@@ -44,7 +44,7 @@ I found X-Ray to be very easy to understand and use.  It was easy to write it in
 
 X-Ray has many attributes that are useful for scraping a big website.  I have gone over a few of them in the previous paragraph.  Collections are like a list of fields within a field.  X-Ray makes it easier to get collections using this code: 
 ```ruby
-//selecting only the first list item in unordered list
+//selecting only the first list item in an unordered list
  x('ul', 'li') 
  
  //selecting the whole list
@@ -54,4 +54,4 @@ X-Ray has many attributes that are useful for scraping a big website.  I have go
  x(['ul'], ['li'])
 ```
 
-Other attributes are crawling, scoping, and filtering.  By using them together, the search becomes even better because it helps with being more specific with what you want out of the website.  What helped me understand how to use the different properties was Matthew Muellerʻs [GitHub page](https://github.com/matthewmueller/x-ray).  It shows examples of the selector (simple string selector), collections (selects an object), arrays (selects an array), collections of collections (selects an array of objects), and array of arrays (selects an array of arrays).  Overall, I think that X-Ray was a great experience for trying out scraping for the first time.  
+Other attributes are crawling, scoping, and filtering.  By using them together, the search becomes even better because it helps with being more specific with what you want out of the website.  What helped me understand how to use the different properties was Matthew Muellerʻs [GitHub page](https://github.com/matthewmueller/x-ray).  It shows examples of the selector (simple string selector), collections (selects an object), arrays (selects an array), collections of collections (selects an array of objects), and an array of arrays (selects an array of arrays).  Overall, I think that X-Ray was a great experience for trying out scraping for the first time.  
