@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Web Design",
+      "name": "Digital Forensics",
       "keywords": [
       ]
     }
@@ -59,10 +59,13 @@
         "Javascript",
         "Microsoft Word",
         "Microsoft Excel",
-        "Semantic UI React",
+        "Semantic UI/React",
         "HTML/CSS",
         "Linux",
-        "Exclipse/IntelliJ"
+        "Exclipse/IntelliJ",
+        "X-ray",
+        "Pupeteer",
+        "Figma - Framework"
       ]
     },
     {
@@ -71,7 +74,7 @@
       "keywords": [
         "Mathematics", 
         "Customer Service", 
-        "Tutoring/Explaining", 
+        "Tutoring", 
         "Time Management",
         "Multi-tasking", 
         "Independent Worker", 
@@ -104,11 +107,11 @@
   
   "work": [
     {
-      "company": "RadGrad2",
+      "company": "RadGrad2 - InternBit",
       "position": "Intern",
       "startDate": "May 2020",
       "endDate": "August 2020",
-      "summary": "Worked with team to improve and create a web application called InternBit.  Helped create design mockups of the pages we would implement into the application as well as code the front and back-end of the app.  The goal of the app is to create an easier way for students to find an internship without looking on a million websites.",
+      "summary": "Worked with team to improve and create a web application called InternBit.  Helped create design mockups of the pages we would implement into the application as well as code the front and back-end of the app.  Also dealt with javascript libraries using scrapers to collect public information off of websites.  The goal of the app is to create an easier way for students to find an internship without looking on a million websites.",
     },
     {
       "company": "Kapahulu Express Laundromat",
