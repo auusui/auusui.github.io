@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/huffman.gif ----- CHANGE THIS
 title: "Internbit - RadGrad2"
-permalink: projects/huffman-tree-code
+permalink: projects/internbit-radgrad2
 # All dates must be YYYY-MM-DD format!
 date: 2020-07-31
 labels:
