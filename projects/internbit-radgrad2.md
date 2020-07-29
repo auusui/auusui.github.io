@@ -17,3 +17,6 @@ summary: Researched and developed for RadGrad2 using Javascript Libraries and Se
 LINK TO GITHUB REPO
 ADD AN IMAGE OF STATIC PAGE
 FIGMA, PARSING, JS LIBRARIES, UI
+[Link to InternBit Github Repo](https://github.com/radgrad/internbit)
+[My parser repo](https://github.com/radgrad/internbit-scraper-au-Youtern)
+[My UI repo](https://github.com/radgrad/internbit-ui-au)
