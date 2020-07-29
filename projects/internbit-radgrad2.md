@@ -1,7 +1,7 @@
 ---
 layout: project 
 type: project
-image: images/huffman.gif ----- CHANGE THIS
+image: images/ui-page.png
 title: "Internbit - RadGrad2"
 permalink: projects/internbit-radgrad2
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
   - Web Scrapers
 summary: Researched and developed for RadGrad2 using Javascript Libraries and Semantic UI to scrape websites of public information for the creation of the web app InternBit.  
 ---
-<img class="ui medium right floated rounded image" src="../images/huffman.gif">
+<img class="ui medium right floated rounded image" src="../images/ui-page.png">
 LINK TO GITHUB REPO
 ADD AN IMAGE OF STATIC PAGE
 FIGMA, PARSING, JS LIBRARIES, UI
