@@ -25,5 +25,9 @@ FIGMA, PARSING, SEMANTIC UI
 * [Tatooine](https://www.npmjs.com/package/tatooine)
 * [Pupeteer](https://www.npmjs.com/package/puppeteer)
 
+## Figma 
+
+Figma is a framework website that allows users to created UI designs.  
+
 <img class="ui medium left floated rounded image" src="../images/Figma.png">
 
