@@ -11,11 +11,12 @@ labels:
   - Research Project
   - Javascript
   - Web Scrapers
-summary: Researched and developed for RadGrad2 using Javascript Libraries and Semantic UI to scrape websites of public information for the creation of the web app InternBit.  
+summary: Researched and developed a UI for RadGrad2 using Javascript Libraries and Semantic UI to scrape websites of job information for the creation of the web app InternBit.  
 ---
 <img class="ui medium right floated rounded image" src="../images/ui-page.png">
-LINK TO GITHUB REPO
-ADD AN IMAGE OF STATIC PAGE
+<img class="ui medium right floated rounded image" src="../images/Figma.png">
+
+
 FIGMA, PARSING, JS LIBRARIES, UI
 [Link to InternBit Github Repo](https://github.com/radgrad/internbit)
 [My parser repo](https://github.com/radgrad/internbit-scraper-au-Youtern)
