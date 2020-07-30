@@ -14,10 +14,16 @@ labels:
 summary: Researched and developed a UI for RadGrad2 using Javascript Libraries and Semantic UI to scrape websites of job information for the creation of the web app InternBit.  
 ---
 <img class="ui medium right floated rounded image" src="../images/ui-page.png">
-<img class="ui medium right floated rounded image" src="../images/Figma.png">
 
-
-FIGMA, PARSING, JS LIBRARIES, UI
+FIGMA, PARSING, SEMANTIC UI
 [Link to InternBit Github Repo](https://github.com/radgrad/internbit)
 [My parser repo](https://github.com/radgrad/internbit-scraper-au-Youtern)
 [My UI repo](https://github.com/radgrad/internbit-ui-au)
+
+## Javascript Libraries
+* [X-Ray](https://www.npmjs.com/package/x-ray)
+* [Tatooine](https://www.npmjs.com/package/tatooine)
+* [Pupeteer](https://www.npmjs.com/package/puppeteer)
+
+<img class="ui medium left floated rounded image" src="../images/Figma.png">
+
