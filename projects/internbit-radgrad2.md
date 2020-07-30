@@ -22,12 +22,17 @@ FIGMA, PARSING, SEMANTIC UI
 
 ## Javascript Libraries
 * [X-Ray](https://www.npmjs.com/package/x-ray)
+
+I have written an essay on my experience with X-Ray here at this [link](https://auusui.github.io/essays/x-ray-scraper.html).  
+
 * [Tatooine](https://www.npmjs.com/package/tatooine)
 * [Pupeteer](https://www.npmjs.com/package/puppeteer)
 
+
+
 ## Figma 
 
-Figma is a framework website that allows users to created UI designs.  
+Figma is a framework website that allows users to created UI designs.  When we first started this internship, on of our first tasks were to create 6 UI mock-ups of what we think our static site would look like.  
 
 <img class="ui medium left floated rounded image" src="../images/Figma.png">
 
