@@ -24,6 +24,7 @@ InternBit is a research project that aims to aid ICS students in finding interns
 Here is a link to the [InternBit](https://radgrad.github.io/docs/internbit/goals) main page where we explained the goals of this porject, our resources, the javascript libraries, our canonical schema, and evaluation.  
 
 This picture is a screenshot of our UI design, which was mainly designed by Jenny Hsu. Here you can see the filters on the left, and the job cards on the right side.  
+
 <img class="ui medium right floated rounded image" src="../images/ui-page.png">
 
 ## What I Did
