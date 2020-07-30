@@ -20,6 +20,10 @@ FIGMA, PARSING, SEMANTIC UI
 [My parser repo](https://github.com/radgrad/internbit-scraper-au-Youtern)
 [My UI repo](https://github.com/radgrad/internbit-ui-au)
 
+[Link to Remote Pairing Essay](https://auusui.github.io/essays/remote-pairing-program.html)
+[Essay on Leveling -Up](https://auusui.github.io/essays/radgrad-level-up.html)
+[intro to InternBit essay](https://auusui.github.io/essays/a-piece-of-internbit.html)
+
 ## Javascript Libraries
 * [X-Ray](https://www.npmjs.com/package/x-ray)
 
