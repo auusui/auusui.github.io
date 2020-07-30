@@ -72,7 +72,7 @@ Since this internship was during the Covid-19 pandemic, we weren't allowed to se
 
 I have written an essay on [Remote Pairing](https://auusui.github.io/essays/remote-pairing-program.html) and its benefits.  
 
-## GitHub Repos
+## My GitHub Repos
 * [Puppeteer Repo](https://github.com/radgrad/internbit-scraper-au-Youtern)
 * [UI Repo](https://github.com/radgrad/internbit-ui-au)
 * [X-Ray Repo](https://github.com/radgrad/internbit-scraper-au-xray)
