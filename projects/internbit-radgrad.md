@@ -25,7 +25,7 @@ Here is a link to the [InternBit](https://radgrad.github.io/docs/internbit/goals
 
 This picture is a screenshot of our UI design, which was mainly designed by Jenny Hsu. Here you can see the filters on the left, and the job cards on the right side.  
 
-<img class="ui medium right floated rounded image" src="../images/ui-page.png">
+<img class="ui large right floated rounded image" src="../images/ui-page.png">
 
 ## What I Did
 
@@ -35,7 +35,7 @@ During this internship, we had tasks that were assigned to us every week or so t
 
 Figma is a framework website that allows users to created UI designs.  When we first started this internship, one of our first tasks were to create 6 UI mock-ups of what we think our static site would look like.  Here is an example of one of my designs to give you a peek into what Figma allows us to do.  
 
-<img class="ui medium left floated rounded image" src="../images/Figma.png">
+<img class="ui large left floated rounded image" src="../images/Figma.png">
 
 
 ### Javascript Libraries
