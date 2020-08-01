@@ -13,6 +13,9 @@ labels:
   - Web Scrapers
 summary: InternBit is a research project that aims to aid ICS students in finding internships via an internship recommendation system and increase RadGrad engagement. 
 ---
+
+<img class="ui large floated rounded image" src="../images/poster.jpg">
+
 # InternBit for RadGrad
 
 For eleven weeks of Summer 2020, I had the greatest opportunity to partake in a research and software development project.  I learned so much during this process, and it gave me a real life experience of what software development is like.  This project was challenging and time-consuming yet very rewarding once you see results.  I learned to scrape websites using Javascript Libraries such as X-Ray, Tatooine, Osmosis, and Puppeteer.  I think that X-Ray was a super easy tool to use if your goal is to grab surface information.  If you want to grab more in depth information like going to the #href source, then Puppeteer was a great too for that.  I got to experience the libraries' strengths and weaknesses and compare the usage.  I came out of this internship with a better knowledge of what I want to do in the future and I feel confident that I could ace a course on all of the activities we did over this summer.  I think that is what internships are for.  You want to get a taste of what it would be like in a specific field and if you would enjoy doing it.  This is why I was happy to be working on this project because I want other students to be able to experience this.  An internship can assure a student's dream job or steer them to a new direction if it isn't what they enjoy.  I think it matters to be passionate about what you're doing, but that was just a bonus to this internship.  I believe this project can help a lot of students find the path they want to take in life, and I am glad I was able to contribute to this.  
