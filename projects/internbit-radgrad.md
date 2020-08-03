@@ -14,6 +14,8 @@ labels:
 summary: InternBit is a research project that aims to aid ICS students in finding internships via an internship recommendation system and increase RadGrad engagement. 
 ---
 
+=======================================================================
+
 <img class="ui large floated rounded image" src="../images/poster.jpg">
 
 # InternBit for RadGrad
@@ -30,25 +32,49 @@ This picture is a screenshot of our UI design, which was mainly designed by Jenn
 
 <img class="ui large right floated rounded image" src="../images/ui-page.png">
 
-## What I Did
+## My Contribution
 
 During this internship, we had tasks that were assigned to us every week or so to work on.  I learned a lot of new skills with these tasks and increased my experience with javascript.  
 
-### Figma 
+#### Figma 
 
 Figma is a framework website that allows users to created UI designs.  When we first started this internship, one of our first tasks were to create 6 UI mock-ups of what we think our static site would look like.  Here is an example of one of my designs to give you a peek into what Figma allows us to do.  
 
 <img class="ui large left floated rounded image" src="../images/Figma.png">
 
+Figma was a super cool tool to use and I would always loose track of time when using it.  I had to switch to a mouse because my hand was getting a cramp using my touchpad.  I was always in a flow state of mind when using Figma because it allowed my creativity to just run wild.  I could create the UI design in my head and put it on paper basically.  It had different frames you could work with like iPhone 11, 6s, or MacBook Pro, Windows 10,  etc.  It had a wide variety of color hex codes that you can play around with and also creating different shapes.  You could also upload images to use in the design.  I would definitely recommend Figma to a friend if they needed a framework website.  
 
-### Javascript Libraries
+#### Javascript Libraries
 
 * [X-Ray](https://www.npmjs.com/package/x-ray)
 * [Tatooine](https://www.npmjs.com/package/tatooine)
 * [Pupeteer](https://www.npmjs.com/package/puppeteer)
 * [NightMare](https://github.com/segmentio/nightmare#api)
 
-Our first step to gathering information was to get comfortable with different javascript libraries.  My first was X-Ray, and it took me a while to understand how to work it.  After I started to get the hang of it, I felt dumb because it was so easy!  I did a lot of research on the different functions I could use and how to scope on certain areas of websites.  I found it hard to get more in detail information, though, so I decided to try Tatooine and Nightmare once I finished scraping my websites with X-Ray.  I wanted to see what different results I could get.  I have written an essay on my experience with [X-Ray](https://auusui.github.io/essays/x-ray-scraper.html). 
+Our first step to gathering information was to get comfortable with different javascript libraries.  My first was X-Ray, and it took me a while to understand how to work it.  After I started to get the hang of it, I felt dumb because it was so easy!  I did a lot of research on the different functions I could use and how to scope on certain areas of websites.  I found it hard to get more in detail information, though, so I decided to try Tatooine and Nightmare once I finished scraping my websites with X-Ray.  I wanted to see what different results I could get.   
+
+A snippet of my X-Ray code:
+
+```JS
+const Xray = require('x-ray');
+const x = Xray();
+
+x('https://www.coolworks.com/search?utf8=%E2%9C%93&q=internships&commit=Search+Jobs', {
+  jobs: x('.job-post-row', [{
+    extra: x('.holder', [{
+      posted: '.time',
+      subtext: x('.text', 'p'),
+      description: x('.top-meta', [{
+        title: 'h4',
+        company: 'h5',
+        location: '.location',
+      }]),
+    }]),
+  }]),
+}).paginate('.paging a@href')
+    .limit(5)
+    .write('coolworks.data.json');
+```
 
 Tatooine was way different than X-Ray, whereas Nightmare was similar to Cheerio and Puppeteer.  I couldn't quite understand how it all worked, and I even tried working on it with my teammate using CodeTogether.  Before I could figure it out though, the group decided it would be best to focus on X-Ray and Puppeteer so we would all use the same library.  We then decided on a [canonical schema](https://radgrad.github.io/docs/internbit/canonical-schema) that we would format our JSON file in.  
 
@@ -70,7 +96,7 @@ Puppeteer was probably my favorite scraper to use because I could code each step
 
 It was easy to create the JSON canonical format.
 
-### Remote Pairing
+#### Remote Pairing
 
 Since this internship was during the Covid-19 pandemic, we weren't allowed to see each other in person.  I think face-to-face interaction is way better than just chatting online because you can achieve more in less time.  The way we tried to replicate this was using [CodeTogether](https://www.codetogether.com/).  This allowed us to simultaneously work on the code on the same page.  We then connected over Discord to talk over the phone, basically, while working on the code.  I think CodeTogether was a great tool to use with my teammates because it made it easier to assist in fixing issues since both people could see the entire code physically instead of snippets.  It was a little more difficult than talking in person, but under the forced circumstances of social distancing, it was actually easier than I thought it would be.  Technical difficulties happened like my internet cutting out or having to set time aside to go on Discord at the same time, but other than that, remote pairing went smoothly.  I think this was a great experience because now people know that there are other ways to be efficient in a group project but also being safe from the pandemic.  With improvements in technology, people probably figured out that not everything needs to be in person.  
 
@@ -83,12 +109,17 @@ I have written an essay on [Remote Pairing](https://auusui.github.io/essays/remo
 
 
 ## Websites
-* [CoolWorks](https://www.coolworks.com/search?q=technology)
-* [Youtern](https://www.youtern.com/candidate/job_search/quick/results)
-* [IHireTechnology](https://www.ihiretechnology.com/search?k=technology&loc=Honolulu,%20HI#!/search/c=&loc=Honolulu,%20HI&d=75&k=technology&o=14&searchtype=page-load)
+
+These are the websites that I scraped using the javascript libraries I had mentioned above.  
+
+* [CoolWorks](https://www.coolworks.com/search?q=technology) -- X-Ray & Puppeteer & Tatooine & Nightmare
+* [Youtern](https://www.youtern.com/candidate/job_search/quick/results) -- X-Ray & Puppeteer
+* [IHireTechnology](https://www.ihiretechnology.com/search?k=technology&loc=Honolulu,%20HI#!/search/c=&loc=Honolulu,%20HI&d=75&k=technology&o=14&searchtype=page-load) -- Puppeteer
 
 
 ## Essays
+
+Over the course of the internship, I wrote technical essays that talks about my experiences and knowledge I gained from my tasks.  RadGrad Level Up is basically about what you need to do to level up as well as reflections on improvements and compliments on it.  A Piece of Internbit is essay on recommendation systems and how it relates to what we are trying to do in InternBit.  Remote Pairing Program shares my first experience using CodeTogether with my teammates and my reflection upon it.  Lastly, X-Ray Scraper summarizes how X-Ray works and what I thought about it.  
 
 * [RadGrad Level Up](https://auusui.github.io/essays/radgrad-level-up.html)
 * [A Piece of InternBit](https://auusui.github.io/essays/a-piece-of-internbit.html)
