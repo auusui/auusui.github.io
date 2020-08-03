@@ -39,6 +39,7 @@ During this internship, we had tasks that were assigned to us every week or so t
 
 
 
+
 ### Figma 
 
 Figma is a framework website that allows users to create UI designs.  When we first started this internship, one of our first tasks was to create 6 UI mock-ups of what we think our static site would look like.  Here is an example of one of my designs to give you a peek into what Figma allows us to do.  
