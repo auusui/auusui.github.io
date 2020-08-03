@@ -17,7 +17,7 @@ summary: InternBit is a research project that aims to aid ICS students in findin
 
 =======================================================================
 
-<img class="ui extra large centered rounded image" src="../images/poster.jpg">
+<img class="ui huge centered rounded image" src="../images/poster.jpg">
 
 # InternBit for RadGrad
 
