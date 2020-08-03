@@ -132,6 +132,36 @@ Puppeteer was probably my favorite scraper to use because I could code each step
 
 It was easy to create the JSON canonical format.  Puppeteer made it easy to scrape websites that needed a login to access the internship listings.  Between all of the javascript libraries I tried, I love Puppeteer the most.  
 
+#### Selectors
+
+One of the interesting things I learned while scraping was the different ways you could write a selector!  At first I was a confused little puppy trying to grab sections from the websites HTMl content.  All I was doing in my scraper code was using the main section names like "h4", "title", "ul", etc.  I didn't know that you could narrow the scope and use class names, or id names and such.  It was really cool to learnt the different ways you could write a selector out.  Example of an HTMl: 
+
+```ruby
+<div>
+  <input class="open box-user" id="names">
+    <ul class="listings" value="all">
+      <li> Jason </li>
+      <li> Mary </li>
+      <li> Cosby </li>
+      <li> Lana </li>
+    </ul>
+  </input>
+</div>
+```
+
+If I want to grab one of the li childs in the ul list then the different ways I could select it would be this:
+
+```ruby
+document.querySelector('input.open.box-user > ul.listings > li:nth-child(2)'); //Mary
+document.querySelector('ul[class=listings] li:nth-child(3)'); //Cosby
+document.querySelector('ul.listings li:nth-child(4)'); //Lana
+document.querySelector('input#names.open.box-user > ul > li:nth-child(2)'); //Mary
+document.querySelector('ul'); //Jason, Mary, Cosby, Lana
+
+```
+
+There are so many ways you could go about it!  I just thought I should share because it was one of those mind-blowing discoveries I had.  Computer science is so exact and precise that it was cool to find something where there are multiple options you could try and still get the same outputs.  
+
 ### Remote Pairing
 
 Since this internship was during the Covid-19 pandemic, we weren't allowed to see each other in person.  I think face-to-face interaction is way better than just chatting online because you can achieve more in less time.  The way we tried to replicate this was using [CodeTogether](https://www.codetogether.com/).  This allowed us to simultaneously work on the code on the same page.  We then connected over Discord to talk over the phone, basically, while working on the code.  I think CodeTogether was a great tool to use with my teammates because it made it easier to assist in fixing issues since both people could see the entire code physically instead of snippets.  It was a little more difficult than talking in person, but under the forced circumstances of social distancing, it was actually easier than I thought it would be.  Technical difficulties happened like my internet cutting out or having to set time aside to go on Discord at the same time, but other than that, remote pairing went smoothly.  I think this was a great experience because now people know that there are other ways to be efficient in a group project but also being safe from the pandemic.  With improvements in technology, people probably figured out that not everything needs to be in person.  
