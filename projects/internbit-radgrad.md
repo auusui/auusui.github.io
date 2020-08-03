@@ -17,7 +17,7 @@ summary: InternBit is a research project that aims to aid ICS students in findin
 
 =======================================================================
 
-<img class="ui large floated rounded image" src="../images/poster.jpg">
+<img class="ui large centered rounded image" src="../images/poster.jpg">
 
 # InternBit for RadGrad
 
@@ -142,7 +142,7 @@ The scraping was gathering all of the information we needed for the first part o
 
 ### Presentation for NSF-REU
 
-My last tasks for InternBit was to get ready for the presentation for the Undergraduate Research Opportunities Program (UROP) SURE Symposium event.  It was held completely online this year due to the COVID-19 situation.  Our jobs were to create a poster for our presentation that let our audience know what we are and our purpose of the project.  We also had to come up with an abstract for the application.  Our process was for all of us to make our own abstract and posters then we would come together and combine what we wanted to use.  The presentation took up the 20 minute slot and we also got to watch our other teammates from different projects present their creations over the course of this internship.  There were hundreds of people presenting online.  It was a great way to end the internship. 
+My last tasks for InternBit was to get ready for the presentation for the Undergraduate Research Opportunities Program (UROP) SURE Symposium event.  It was held completely online this year due to the COVID-19 situation.  Our jobs were to create a poster for our presentation that let our audience know what we are and our purpose of the project.  We also had to come up with an abstract for the application.  Our process was for all of us to make our own abstract and posters then we would come together and combine what we wanted to use.  The presentation took up the 20 minute slot and we also got to watch our other teammates from different projects present their creations over the course of this internship.  There were hundreds of people presenting online.  It was a great way to end the internship. If you want to see our poster, then scroll back up to the first image that shows up on this page. 
 
 ## My GitHub Repos
 
