@@ -135,9 +135,9 @@ It was easy to create the JSON canonical format.  Puppeteer made it easy to scra
 
 #### Selectors
 
-One of the interesting things I learned while scraping was the different ways you could write a selector!  At first I was a confused little puppy trying to grab sections from the websites HTMl content.  All I was doing in my scraper code was using the main section names like "h4", "title", "ul", etc.  I didn't know that you could narrow the scope and use class names, or id names and such.  It was really cool to learnt the different ways you could write a selector out.  Example of an HTMl: 
+One of the interesting things I learned while scraping was the different ways you could write a selector!  At first I was a confused little puppy trying to grab sections from the websites HTMl content.  All I was doing in my scraper code was using the main section names like "h4", "title", "ul", etc.  I didn't know that you could narrow the scope and use class names, or id names and such.  It was really cool to learnt the different ways you could write a selector out.  Example of an HTML: 
 
-```ruby
+```HTML
 <div>
   <input class="open box-user" id="names">
     <ul class="listings" value="all">
