@@ -12,7 +12,7 @@ labels:
   - Javascript
   - Web Scrapers
   - Internship
-summary: InternBit is a research project that aims to aid ICS students in finding internships via an internship recommendation system and increase RadGrad engagement. 
+summary: InternBit is a research project that aims to aid ICS students in finding internships via an internship recommendation system and increase RadGrad engagement.  
 ---
 
 =======================================================================
