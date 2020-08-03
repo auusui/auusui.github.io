@@ -11,6 +11,7 @@ labels:
   - Research Project
   - Javascript
   - Web Scrapers
+  - Internship
 summary: InternBit is a research project that aims to aid ICS students in finding internships via an internship recommendation system and increase RadGrad engagement. 
 ---
 
@@ -36,7 +37,9 @@ This picture is a screenshot of our UI design, which was mainly designed by Jenn
 
 During this internship, we had tasks that were assigned to us every week or so to work on.  I learned a lot of new skills with these tasks and increased my experience with javascript.  
 
-#### Figma 
+
+
+### Figma 
 
 Figma is a framework website that allows users to created UI designs.  When we first started this internship, one of our first tasks were to create 6 UI mock-ups of what we think our static site would look like.  Here is an example of one of my designs to give you a peek into what Figma allows us to do.  
 
@@ -44,7 +47,7 @@ Figma is a framework website that allows users to created UI designs.  When we f
 
 Figma was a super cool tool to use and I would always loose track of time when using it.  I had to switch to a mouse because my hand was getting a cramp using my touchpad.  I was always in a flow state of mind when using Figma because it allowed my creativity to just run wild.  I could create the UI design in my head and put it on paper basically.  It had different frames you could work with like iPhone 11, 6s, or MacBook Pro, Windows 10,  etc.  It had a wide variety of color hex codes that you can play around with and also creating different shapes.  You could also upload images to use in the design.  I would definitely recommend Figma to a friend if they needed a framework website.  
 
-#### Javascript Libraries
+### Javascript Libraries
 
 * [X-Ray](https://www.npmjs.com/package/x-ray)
 * [Tatooine](https://www.npmjs.com/package/tatooine)
@@ -76,7 +79,40 @@ x('https://www.coolworks.com/search?utf8=%E2%9C%93&q=internships&commit=Search+J
     .write('coolworks.data.json');
 ```
 
-Tatooine was way different than X-Ray, whereas Nightmare was similar to Cheerio and Puppeteer.  I couldn't quite understand how it all worked, and I even tried working on it with my teammate using CodeTogether.  Before I could figure it out though, the group decided it would be best to focus on X-Ray and Puppeteer so we would all use the same library.  We then decided on a [canonical schema](https://radgrad.github.io/docs/internbit/canonical-schema) that we would format our JSON file in.  
+Tatooine was way different than X-Ray, whereas Nightmare was similar to Cheerio and Puppeteer.  I couldn't quite understand how it all worked, and I even tried working on it with my teammate using CodeTogether.  Before I could figure it out though, the group decided it would be best to focus on X-Ray and Puppeteer so we would all use the same library.  We then decided on a [canonical schema](https://radgrad.github.io/docs/internbit/canonical-schema) that we would format our JSON file in.  An example of our canonical format is:
+```ruby
+    {
+        "position": "Intern - Probe Software Engineer",
+        "location": {
+            "city": " Boise",
+            "state": "ID"
+        },
+        "company": "Micron Technology, Inc.",
+        "posted": "2020-07-22T07:04:57.624Z",
+        "url": "https://www.ihiretechnology.com/candidate/jobs/view/276128490?resultset=c488e709-1351-4cae-8a37-cf17e46e5eff&result=7",
+        "lastScraped": "2020-07-28T07:04:57.618Z",
+        "description": "Req. ID: 209082Micron Technologys vision is to transform how the world uses information to enrich life and our commitment to people, innovation, tenacity, collaboration, and customer focus allows us to fulfill our mission to be a global leader in memory and storage solutions. This means conducting business with integrity, accountability, and professionalism while supporting our global community....
+        "contact": [
+            "to request assistance with the application process, please contact microns human resources department at 1-800-336-8918 (or 208-368-4748)."
+        ],
+        "skills": [
+            "communication skills",
+            "software engineering",
+            "software design",
+            "information technology",
+            "critical thinking",
+            "teamwork",
+            "analytical skills",
+            "NodeJS",
+            "AngularJS",
+            "data visualization",
+            "JSON",
+            "AJAX"
+        ],
+        "qualifications": "N/A",
+        "start": September 2020
+    }
+```
 
 Puppeteer was probably my favorite scraper to use because I could code each step that I wanted it to do.  I had to login to some of the sites so I used functions like type() and click().  Here is a snippet of my code for inserting search keywords to filter the internships: 
 
@@ -94,15 +130,26 @@ Puppeteer was probably my favorite scraper to use because I could code each step
     await page.type( "#location", " ");
 ```
 
-It was easy to create the JSON canonical format.
+It was easy to create the JSON canonical format.  Puppeteer made it easy to scrape websites that needed a login to access the internship listings.  Between all of the javascript libraries I tried, I love Puppeteer the most.  
 
-#### Remote Pairing
+### Remote Pairing
 
 Since this internship was during the Covid-19 pandemic, we weren't allowed to see each other in person.  I think face-to-face interaction is way better than just chatting online because you can achieve more in less time.  The way we tried to replicate this was using [CodeTogether](https://www.codetogether.com/).  This allowed us to simultaneously work on the code on the same page.  We then connected over Discord to talk over the phone, basically, while working on the code.  I think CodeTogether was a great tool to use with my teammates because it made it easier to assist in fixing issues since both people could see the entire code physically instead of snippets.  It was a little more difficult than talking in person, but under the forced circumstances of social distancing, it was actually easier than I thought it would be.  Technical difficulties happened like my internet cutting out or having to set time aside to go on Discord at the same time, but other than that, remote pairing went smoothly.  I think this was a great experience because now people know that there are other ways to be efficient in a group project but also being safe from the pandemic.  With improvements in technology, people probably figured out that not everything needs to be in person.  
 
-I have written an essay on [Remote Pairing](https://auusui.github.io/essays/remote-pairing-program.html) and its benefits.  
+I have written an essay on [Remote Pairing](https://auusui.github.io/essays/remote-pairing-program.html) and its benefits. 
+
+### Semantic UI React Design 
+
+The scraping was gathering all of the information we needed for the first part of InternBit.  The next step was to integrate those scraped job listings into a static website.  We wanted to make something that would reflect the purpose of InternBit.  Each of my teammates and I made our own UI designs, then we would combine then in the end.  [Semantic UI React](https://react.semantic-ui.com/) is a great tool to use and probably my favorite for designing interfaces.  The back end engineering is tricky and frustrating at times, but if we don't wanna through our computer sometimes, then are we really coding?  My design was going for a filter bar on the top and it would show all the lisitings below.  I wanted a lot of space for the cards because I figured a user would want to read as much information as they can before they click to see the job listing on a new page.  I also wanted to implement a favorites button where it would add the job to a section that basically saves it for later.  The color scheme I was working with was a light blue and grey scale along with black.  I was sad that the internship ended and that I couldn't really finish the design.  I had so much fun working on it with my teammates.
+
+### Presentation for NSF-REU
+
+My last tasks for InternBit was to get ready for the presentation for the Undergraduate Research Opportunities Program (UROP) SURE Symposium event.  It was held completely online this year due to the COVID-19 situation.  Our jobs were to create a poster for our presentation that let our audience know what we are and our purpose of the project.  We also had to come up with an abstract for the application.  Our process was for all of us to make our own abstract and posters then we would come together and combine what we wanted to use.  The presentation took up the 20 minute slot and we also got to watch our other teammates from different projects present their creations over the course of this internship.  There were hundreds of people presenting online.  It was a great way to end the internship. 
 
 ## My GitHub Repos
+
+These are my GitHub repositories that will take you straight to my code.  They will be my scraper code or my UI design code.  My UI design code isn't completely finished due to the ending of our internship.  
+
 * [Puppeteer Repo](https://github.com/radgrad/internbit-scraper-au-Youtern)
 * [UI Repo](https://github.com/radgrad/internbit-ui-au)
 * [X-Ray Repo](https://github.com/radgrad/internbit-scraper-au-xray)
