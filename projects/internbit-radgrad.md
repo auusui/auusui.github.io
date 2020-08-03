@@ -44,6 +44,7 @@ During this internship, we had tasks that were assigned to us every week or so t
 
 Figma is a framework website that allows users to create UI designs.  When we first started this internship, one of our first tasks was to create 6 UI mock-ups of what we think our static site would look like.  Here is an example of one of my designs to give you a peek into what Figma allows us to do.  
 
+
 <img class="ui large left floated rounded image" src="../images/Figma.png">
 
 Figma was a super cool tool to use and I would always lose track of time when using it.  I had to switch to a mouse because my hand was getting a cramp using my touchpad.  I was always in a flow state of mind when using Figma because it allowed my creativity to just run wild.  I could create the UI design in my head and put it on paper basically.  It had different frames you could work with like iPhone 11, 6s, or MacBook Pro, Windows 10,  etc.  It had a wide variety of color hex codes that you can play around with and also create different shapes.  You could also upload images to use in the design.  I would definitely recommend Figma to a friend if they needed a framework website.  
