@@ -110,7 +110,7 @@ Tatooine was way different than X-Ray, whereas Nightmare was similar to Cheerio 
             "AJAX"
         ],
         "qualifications": "N/A",
-        "start": September 2020
+        "start": "September 2020"
     }
 ```
 
