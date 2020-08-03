@@ -91,7 +91,7 @@ Tatooine was way different than X-Ray, whereas Nightmare was similar to Cheerio 
         "posted": "2020-07-22T07:04:57.624Z",
         "url": "https://www.ihiretechnology.com/candidate/jobs/view/276128490?resultset=c488e709-1351-4cae-8a37-cf17e46e5eff&result=7",
         "lastScraped": "2020-07-28T07:04:57.618Z",
-        "description": "Req. ID: 209082Micron Technologys vision is to transform how the world uses information to enrich life and our commitment to people, innovation, tenacity, collaboration, and customer focus allows us to fulfill our mission to be a global leader in memory and storage solutions. This means conducting business with integrity, accountability, and professionalism while supporting our global community....
+        "description": "Req. ID: 209082Micron Technologys vision is to transform how the world uses information to enrich life and our commitment to people, innovation, tenacity, collaboration, and customer focus allows us to fulfill our mission to be a global leader in memory and storage solutions. This means conducting business with integrity, accountability, and professionalism while supporting our global community....",
         "contact": [
             "to request assistance with the application process, please contact microns human resources department at 1-800-336-8918 (or 208-368-4748)."
         ],
