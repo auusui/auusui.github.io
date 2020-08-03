@@ -55,7 +55,7 @@ Our first step to gathering information was to get comfortable with different ja
 
 A snippet of my X-Ray code:
 
-```JS
+```ruby
 const Xray = require('x-ray');
 const x = Xray();
 
@@ -80,7 +80,7 @@ Tatooine was way different than X-Ray, whereas Nightmare was similar to Cheerio 
 
 Puppeteer was probably my favorite scraper to use because I could code each step that I wanted it to do.  I had to login to some of the sites so I used functions like type() and click().  Here is a snippet of my code for inserting search keywords to filter the internships: 
 
-```JS
+```ruby
     await page.waitForSelector('input[class=form-control]');
     await page.type('input[class=form-control]', 'technology');
     await page.waitFor(3000);
