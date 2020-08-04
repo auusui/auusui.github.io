@@ -40,6 +40,7 @@ During this internship, we had tasks that were assigned to us every week or so t
 
 
 
+
 ### Figma 
 
 Figma is a framework website that allows users to create UI designs.  When we first started this internship, one of our first tasks was to create 6 UI mock-ups of what we think our static site would look like.  Here is an example of one of my designs to give you a peek into what Figma allows us to do.  
@@ -82,6 +83,7 @@ x('https://www.coolworks.com/search?utf8=%E2%9C%93&q=internships&commit=Search+J
 ```
 
 Tatooine was way different than X-Ray, whereas Nightmare was similar to Cheerio and Puppeteer.  I couldn't quite understand how it all worked, and I even tried working on it with my teammate using CodeTogether.  Before I could figure it out though, the group decided it would be best to focus on X-Ray and Puppeteer so we would all use the same library.  We then decided on a [canonical schema](https://radgrad.github.io/docs/internbit/canonical-schema) that we would format our JSON file in.  An example of our canonical format is:
+
 ```ruby
     {
         "position": "Intern - Probe Software Engineer",
