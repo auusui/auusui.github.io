@@ -58,5 +58,5 @@ The database will be able to access all three of these elements.  The user will 
 This project gave me a lot of headaches, but what's new?  This course was challenging because our professor made the project descriptions vague so that we would research and learn how to do it on our own.  I may not be a fan of this process because I like to know why I am doing what I am doing in code so that I can use it again in the future should it come up again.  I did learn a lot during this course, however.  I learned how to fix my mistakes and figure out where the problems stemmed without using a debug to help me.  I learned how to work around different options and coded different techniques to get the result I wanted.  I feel like this course made me think literally like a database, which really helped me in many of my other classes as well.  It was difficult learning on my own, but no one said the best rewards come from easy work.  I definitely earned my grade in this class.
 
 ### Links to my code
-* [User Interface]()
-* [Functions]()
+* [User Interface](https://github.com/auusui/auusui.github.io/blob/master/user-interface.md)
+* [Functions](https://github.com/auusui/auusui.github.io/blob/master/functions.md)
