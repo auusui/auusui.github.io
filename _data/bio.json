@@ -31,7 +31,7 @@
   },
   "interests": [
     {
-      "name": "IT",
+      "name": "AI Imaging",
       "keywords": [
         
       ]
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Digital Forensics",
+      "name": "Hospital Software Researcher",
       "keywords": [
       ]
     }
@@ -60,6 +60,8 @@
         "Microsoft Word",
         "Microsoft Excel",
         "Semantic UI/React",
+        "Python",
+        "SQL",
         "HTML/CSS",
         "Linux",
         "Exclipse/IntelliJ",
@@ -100,7 +102,9 @@
         "Linear Alg. & Differential Equations",
         "Program Structure(C/C++/Scripting)",
         "Algorithms",
-        "Software Engineering I"
+        "Software Engineering I",
+        "Data Science Fundamentals",
+        "Database Systems I"
       ]
     }
   ],
@@ -112,6 +116,16 @@
       "startDate": "May 2020",
       "endDate": "August 2020",
       "summary": "Worked with team to improve and create a web application called InternBit.  Helped create design mockups of the pages we would implement into the application as well as code the front and back-end of the app.  Also dealt with javascript libraries using scrapers to collect public information off of websites.  The goal of the app is to create an easier way for students to find an internship without looking on a million websites.",
+    },
+    {
+      "company": "Lululemon Athletica",
+      "position": "Educator",
+      "website": "",
+      "startDate": "November 2020",
+      "endDate": "present",
+      "summary": "Lululemon is a well-known Canadian-based company that sells everything relating to athletics.  I work for this company because of its purpose and its people.  For the short time I have been here, I have already fallen in love with the dynamic of my team and what this company stands for.  It is a balance of fun and work, but always getting the job done in the best way possible.  As an educator, I “educate” customers about our products and help them find the best attire for their athletic needs.  I also work inventory shifts where we unload all the shipments, fold/hang all the products correctly, and store them in the backroom neatly organized.  In my day shifts, I work restock as well, which is where I pull products from the back room and put them out front in the store so all sizes/styles are present.  Regardless of the position I work, I will always have customer service available if someone stops me to get help.",
+      "highlights": [
+      ]
     },
     {
       "company": "Kapahulu Express Laundromat",
@@ -160,6 +174,16 @@
       "summary": "ITMA is a student organization at UH Manoa focused on information technology and business combined.  My position is under the Director of Marketing and I help him create flyers for the club to post on social medias and t-shirt designs.",
       "highlights": [
        ]
+    },
+    {
+      "organization": "Wellness Warrior Club",
+      "website": "",
+      "position": "Club Member",
+      "startDate": "August 2020",
+      "endDate": "current",
+      "summary": "A new UH Manoa club based on the Blue Zones Project Organization.  The Blue Zones project aims to apply lifestyle principles, research, and learning from making healthy choices easier and helping people live longer, healthier, and happier lives to transform our lives.  I joined this club because being an athlete (especially a track athlete) makes me more aware of what I put into my body and how I take care of it as well.  We do this by following the “Power 9” principles.  The one that I have been focusing on more is the principle of down shift, which means allow yourself to relax from time to time and leave room to give yourself a break from all the hard work you do.  ",
+      "highlights": [
+       ]
     }
   ],
   "awards": [
@@ -172,6 +196,18 @@
     {
       "title": "Big West Honor Roll",
       "date": "Spring 2018",
+      "awarder": "Big West Conference",
+      "summary": "Earning a cummulative GPA over 3.0."
+    },
+    {
+      "title": "Most Improved Player",
+      "date": "Spring 2020",
+      "awarder": "UH Track and Field",
+      "summary": "Awarded to the player that resembled the most improvement in her events as well as having a warrior attitude."
+    },
+    {
+      "title": "Big West Honor Roll",
+      "date": "Fall 2020",
       "awarder": "Big West Conference",
       "summary": "Earning a cummulative GPA over 3.0."
     }
