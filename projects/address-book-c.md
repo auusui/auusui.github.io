@@ -2,10 +2,10 @@
 layout: project 
 type: project
 image: images/linux.png
-title: "Address Book"
+title: "Address Book C"
 permalink: projects/address-book-c
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-14
+date: 2020-10-30
 labels:
   - C coding
   - Debug mode
