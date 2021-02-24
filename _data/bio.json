@@ -50,11 +50,12 @@
   
   "skills": [
     {
-      "name": "Web Tools",
+      "name": "Languages/Platforms",
       "level": "Moderate",
        "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "Microsoft Word",
@@ -67,7 +68,9 @@
         "Exclipse/IntelliJ",
         "X-ray",
         "Pupeteer",
-        "Figma - Framework"
+        "Figma - Framework",
+        "Unity - Bolt",
+        "Allegro Common Lisp"
       ]
     },
     {
@@ -81,7 +84,8 @@
         "Multi-tasking", 
         "Independent Worker", 
         "Deadline Driven",
-        "Functional Programming"
+        "Functional Programming",
+        "Object-Oriented Programming"
       ]
     }
   ],
@@ -89,7 +93,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
+      "area": "Computer Science (expected June, 2021)",
       "studyType": "B.S.",
       "startDate": "2018-09-21",
       "endDate": "Present",
