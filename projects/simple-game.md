@@ -120,7 +120,6 @@ The score counter will add 1 to the score if the object tag is "Coin".  In the a
 <img class="ui huge centered rounded image" src="../images/ScoreCount.png">
 
 
-
 # Video Tutorial of Game
 
 Here is the link to my video you can watch by downloading it.  It is a simple explanation of my game and how it works.  
