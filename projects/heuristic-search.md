@@ -40,7 +40,7 @@ The heuristic value is found by adding together the nth 0 state and nth 1 state 
 [C&M Problem Explanation](https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem#:~:text=In%20the%20missionaries%20and%20cannibals,were%2C%20the%20cannibals%20would%20eat)
 
 ### 2) Farmer, Goat, Wolf, and Cabbage
-<img class="ui huge left floated rounded image" src="../images/farmer.jpg">
+<img class="ui medium left floated rounded image" src="../images/farmer.jpg">
 Start state = '(1 1 1 1)
 Goal state = '(0 0 0 0)
 Moves = '(farmer-takes-wolf farmer-takes-goat farmer-takes-cabbage farmer-takes-self) --> I think these moves are pretty self-explanatory.
@@ -52,7 +52,7 @@ The heuristic value is found by just adding up each nth state in the node becaus
 [F,W,G,C Problem Explanation](https://illuminations.nctm.org/BrainTeasers.aspx?id=4992#:~:text=The%20Wolf%2C%20Goat%2C%20and%20Cabbage&text=His%20rowboat%20has%20enough%20room,cabbage%20safe%20from%20their%20enemies.)
 
 ### 3) 5-3 Water Jugs
-<img class="ui huge right floated rounded image" src="../images/jug.jpg">
+<img class="ui medium right floated rounded image" src="../images/jug.jpg">
 Start state = '(0 0)
 Goal state = '(4 0)
 Moves = '(fill5G 3F5-to3 fill2-5G empty3 2F5-to3 1F5-to3) --> These moves will need a little more explaining.  The fill5G just fills the whole 5 gallon jug. The 3F5-to3 will take 3 gallons from the 5-gal jug and puts it into the 3-gal jug.  The fill2-5G will add 2 gallons to the 5-gal jug.  The 2F5-to3 is the same as the other one just 2 gallons instead of 3 and same with 1F5-to3 is with 1 gallon.  
